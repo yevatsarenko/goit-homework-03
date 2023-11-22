@@ -6,6 +6,7 @@
 
 .link {
   text-decoration: none;
+  pad: 24px 0 24px;
 }
 
 .body {
@@ -59,14 +60,19 @@ address {
   align-items: center;
 }
 
+.link-display {
+  gap: 40px;
+}
+
 .menu-header {
   display: flex;
-  column-gap: 40px;
+  gap: 40px;
 }
 
 .nav {
   display: flex;
   justify-content: space-between;
+  padding: 0 15px 0 15px;
 }
 
 .logo-margin {
