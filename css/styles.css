@@ -17,7 +17,7 @@
 
 button {
   cursor: pointer;
-  display: block;
+
   min-width: 169px;
   height: 56px;
   border: none;
@@ -162,7 +162,7 @@ address {
 
 .section-hero {
   background-color: #2e2f42;
-  padding: 188px 0;
+  padding: 188px 0 188px;
 }
 
 .head-name {
@@ -190,6 +190,7 @@ address {
   border-radius: 4px;
   background: var(--IRIS, #4d5ae5);
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  display: block;
 }
 
 .button:hover,
