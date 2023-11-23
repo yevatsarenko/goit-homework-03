@@ -273,6 +273,7 @@ address {
 
 .menu-item {
   background-color: #ffffff;
+  gap: 40px;
 }
 
 .section-our-team {
