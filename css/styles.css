@@ -55,6 +55,10 @@ address {
 
 /* HEADER STYLES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 
+.menu {
+  gap: 40px;
+}
+
 .main-navigation {
   display: flex;
   align-items: center;
