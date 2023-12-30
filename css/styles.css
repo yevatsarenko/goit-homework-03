@@ -149,6 +149,14 @@ address {
   gap: 40px;
 }
 
+.contact-li {
+  margin-right: 40px;
+}
+
+.contact-li-second {
+  margin-right: 0;
+}
+
 .contact {
   display: flex;
   align-items: center;
