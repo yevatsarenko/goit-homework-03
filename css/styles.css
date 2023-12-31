@@ -258,6 +258,7 @@ address {
   flex-direction: column;
   align-items: flex-start;
   gap: 8px;
+  margin-bottom: 8px;
 }
 
 .section-benefits-p {
@@ -359,6 +360,10 @@ address {
   font-size: 16px;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
+}
+
+.width-li {
+  width: calc((100% - 72px) / 4);
 }
 
 /* SECTION 3 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
