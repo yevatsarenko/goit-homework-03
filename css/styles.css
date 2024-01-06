@@ -373,6 +373,10 @@ address {
     lightgray -25.026px 0px / 125% 100% no-repeat;
 }
 
+.padding_div {
+  padding: 32px 0;
+}
+
 .our-porfolio-card {
   background: var(--WHITE, #fff);
 }
