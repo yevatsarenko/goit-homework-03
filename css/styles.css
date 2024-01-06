@@ -360,6 +360,7 @@ address {
   font-size: 16px;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .width-li {
@@ -405,6 +406,11 @@ address {
 
 .li-section-third {
   border-radius: 0px 0px 4px 4px;
+}
+
+.style-team {
+  text-align: center;
+  margin-bottom: 8px;
 }
 
 .wrap {
