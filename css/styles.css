@@ -395,6 +395,14 @@ address {
   letter-spacing: 0.02em;
 }
 
+.ul-display {
+  gap: 24px;
+}
+
+.li-section-third {
+  border-radius: 0px 0px 4px 4px;
+}
+
 .wrap {
   flex-wrap: wrap;
 }
