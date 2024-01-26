@@ -443,6 +443,7 @@ address {
 }
 
 .display-portfolio {
+  row-gap: 48px;
 }
 
 .logo-footer {
