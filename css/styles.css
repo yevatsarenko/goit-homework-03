@@ -288,6 +288,7 @@ address {
   column-gap: 24px;
   row-gap: 48px;
   gap: 24px;
+  margin: 0;
 }
 
 .display-benefits {
