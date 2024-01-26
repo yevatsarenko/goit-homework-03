@@ -425,8 +425,11 @@ address {
 }
 
 .li-section-fourth {
-  width: calc((100% - 48px) / 3);
   row-gap: 48px;
+}
+
+.li-calc {
+  width: calc((100% - 48px) / 3);
 }
 
 .div_portfolio {
