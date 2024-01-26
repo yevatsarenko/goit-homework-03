@@ -402,6 +402,7 @@ address {
 
 .ul-display {
   gap: 24px;
+  display: flex;
 }
 
 .li-section-third {
