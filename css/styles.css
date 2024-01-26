@@ -419,6 +419,7 @@ address {
 
 .li-section-fourth {
   width: calc((100% - 48px) / 3);
+  row-gap: 48px;
 }
 
 .div_portfolio {
