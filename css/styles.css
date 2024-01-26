@@ -284,6 +284,7 @@ address {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  gap: 24px;
 }
 
 .display-benefits {
@@ -432,6 +433,9 @@ address {
 
 .footer-background {
   background-color: #2e2f42;
+}
+
+.display-portfolio {
 }
 
 .logo-footer {
