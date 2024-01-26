@@ -403,6 +403,7 @@ address {
 .ul-display {
   gap: 24px;
   display: flex;
+  row-gap: 48px;
 }
 
 .li-section-third {
