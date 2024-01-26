@@ -428,6 +428,7 @@ address {
 
 .li-section-fourth {
   row-gap: 48px;
+  width: calc((100% - 48px) / 3);
 }
 
 .li-calc {
