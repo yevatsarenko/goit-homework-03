@@ -380,6 +380,7 @@ address {
 
 .our-porfolio-card {
   background: var(--WHITE, #fff);
+  width: calc((100% - 48px) / 3);
 }
 
 .our-porfolio-title {
