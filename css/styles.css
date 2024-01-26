@@ -403,11 +403,16 @@ address {
 .ul-display {
   gap: 24px;
   display: flex;
-  row-gap: 48px;
 }
 
 .li-section-third {
   border-radius: 0px 0px 4px 4px;
+  margin-right: 24px;
+}
+
+.li-section-last {
+  border-radius: 0px 0px 4px 4px;
+  margin-right: 0;
 }
 
 .style-team {
