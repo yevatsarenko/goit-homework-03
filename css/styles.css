@@ -380,6 +380,7 @@ address {
 
 .our-porfolio-card {
   background: var(--WHITE, #fff);
+  row-gap: 48px;
   max-width: 264px;
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
